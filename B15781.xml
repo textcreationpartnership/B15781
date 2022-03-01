@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true report of Sir Anthony Shierlies iourney ouerland to Venice fro[m] thence by sea to Antioch, Aleppo, and Babilon, and soe to Casbine in Persia: his entertainment there by the great Sophie: his oration: his letters of credence to the Christian princes: and the priuiledg obtained of the great Sophie, for the quiet passage and trafique of all Christian marchants, throughout his whole dominions.</title>
+            <author>Sherley, Anthony, Sir, 1565-1635?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1600</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B15781</idno>
+            <idno type="STC">STC 22425</idno>
+            <idno type="STC">ESTC S101942</idno>
+            <idno type="EEBO-CITATION">99837745</idno>
+            <idno type="PROQUEST">99837745</idno>
+            <idno type="VID">177538</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B15781)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177538)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1034:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true report of Sir Anthony Shierlies iourney ouerland to Venice fro[m] thence by sea to Antioch, Aleppo, and Babilon, and soe to Casbine in Persia: his entertainment there by the great Sophie: his oration: his letters of credence to the Christian princes: and the priuiledg obtained of the great Sophie, for the quiet passage and trafique of all Christian marchants, throughout his whole dominions.</title>
+                  <author>Sherley, Anthony, Sir, 1565-1635?</author>
+               </titleStmt>
+               <extent>[10] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R, B[lower] for I. I[aggard],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1600.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Names in imprint from STC.</note>
+                  <note>Signatures: A⁴(-A1) B² .</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Iran --  Description and travel --  Early works to 1800.</term>
+               <term>Middle East --  Description and travel --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177538:1"/>
+            <pb facs="tcp:177538:1"/>
+            <p>A True Report of Sir Anthony Shierlies Iourney ouer<g ref="char:EOLhyphen"/>land to <hi>VENICE,</hi> fro<g ref="char:cmbAbbrStroke">̄</g> thence by ſea to <hi>ANTIOCH, ALEPPO,</hi> and Babilon, and ſoe to Casbine in Perſia: his entertainmnt there by the great Sophie: his Oration: his Letters of Credence to the Chriſtian Princes: and the Priuiledg obtai<g ref="char:EOLhyphen"/>ned of the great Sophie, for the quiet paſſage and trafique of all Chriſtian Marchants, throughout his whole Dominions.</p>
+            <p>LONDON, Printed by R, B. for I. I. 1600.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:177538:2"/>
+            <pb facs="tcp:177538:2"/>
+            <head>
+               <g ref="char:leaf">❧</g> A briefe and true Report of S. Anthony Shierlie his iourney in<g ref="char:EOLhyphen"/>to Perſia, reported by two Gentlemen who haue followed him in the ſame the whole time of his trauaile, &amp; are lately ſent by him with Lette<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s into Englande. September 1600.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Irſt, Sir <hi>Anthony Shirley</hi> de<g ref="char:EOLhyphen"/>parting fro<g ref="char:cmbAbbrStroke">̄</g> England, landed at <hi>Vliſhing,</hi> &amp; ſo went to <hi>Colleme,</hi> from thence to <hi>Frankeford,</hi> then to <hi>Nuremberg,</hi> &amp; ſo to <hi>Auguſtus:</hi> Thence taking his Iourney o<g ref="char:EOLhyphen"/>uer the Alpes, he ariued at <hi>Ve<g ref="char:EOLhyphen"/>nice,</hi> where he ſtaide two Mo<g ref="char:EOLhyphen"/>neths, &amp; from thence (after ho<g ref="char:EOLhyphen"/>norable Entertainment by the State and Duke of <hi>Venice</hi>) he tooke ſhiping and croſſing the ſtraightes paſſed the gulfe of <hi>Zante,</hi> ſo came to <hi>Candie,</hi> then to <hi>Rodes,</hi> and ſo alongſt the coaſt of <hi>Cipres</hi> to <hi>Antioch</hi> where he landed, and in fiue dayes ſpace marched to A<g ref="char:EOLhyphen"/>leppo and ſtaide there ſix wéekes: From thence he paſſed with a Caruan to <hi>Beere</hi> in <hi>Arabia.</hi> There he &amp; his compa<g ref="char:EOLhyphen"/>ny made Boates, &amp; therein paſſed downe the Riuer of <hi>Eu<g ref="char:EOLhyphen"/>phrates</hi> vnto <hi>Arabia,</hi> where he preſented the King with a very rich guift or preſent. Thence he departed towardes <hi>Babilon,</hi> ſtaide there ſixe wéekes, and at laſt met with a Caruan bounde for <hi>Perſia,</hi> in company whereof, he paſſed the deſarts of <hi>Same<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay,</hi> being all ſandie and very painefull to paſſe, and are two Moneths trauail from thence to <hi>Caſ<g ref="char:EOLhyphen"/>bine</hi> in <hi>Perſia:</hi> At which place he met with the great <hi>So<g ref="char:EOLhyphen"/>phie,</hi> by whom he was moſt honorably receiued and enter<g ref="char:EOLhyphen"/>tayned.</p>
+            <p>For before his ariuall (vnderſtanding of his comming)
+<pb facs="tcp:177538:3"/> he ſent Horſes Leagues for him and his Com<g ref="char:EOLhyphen"/>panie to trauaile vnto <hi>Casbine,</hi> the imperiall cittie of <hi>Per<g ref="char:EOLhyphen"/>ſia,</hi> where findeing him on horſebacke (as the manner is) he offered to haue kiſſed his foot, but the great <hi>Sophie</hi> refu<g ref="char:EOLhyphen"/>ſed it, putting his hand betweene Sir Anthony Shirleys Mouth and his Foote. Then did his Maieſtie preſent<g ref="char:EOLhyphen"/>ly appoint a very faire and lardge houſe fit for him and his Company to abide and reſt themſelues in, and daylie ſent all manner of Dyet vnto him (limmiting him a ſhort time wherein his pleaſure was to giue him Audience) at which time Sir Anthony reſorting vnto the Court, made his O<g ref="char:EOLhyphen"/>ration in Italian, as followeth.</p>
+         </div>
+         <div type="speech">
+            <head>¶ The true Coppie of Sir ANTHONY SHIRLIES Oration to the So<g ref="char:EOLhyphen"/>phie, as followeth.</head>
+            <p>I Am ſo aſſuredly frée from any iuſt imputation, that I will not draw into ſuſpicion ſo noble a cauſe (as this of my comming with circumſtances,) which though they beare the name, yet are in ſubſtance nothing but vncertaine Excuſes that betoken a fault: whereas trueth ſéeketh no ſtarting-holes, but as a Pilgrim (who follow<g ref="char:EOLhyphen"/>eth the motion of his affections) is come from farre, to yéelde and pay vnto vertue his Zeale and Deuotion, and to none other end, if it may pleaſe your Maieſtie to accept the conſecration of his poore Carcas vnto you, which my minde hath caried hither to be made an Offering or hang<g ref="char:EOLhyphen"/>ing vow in the Temple of your moſt ſinguler vertues, be<g ref="char:EOLhyphen"/>ing brought to this point by the Extremitie of my deſires, with expenſes of much time, and not without great perill: which though it be no Preſent in any degree of woorth eſti<g ref="char:EOLhyphen"/>mable to ſuch a Prince: it may pleaſe your Maieſtie to re<g ref="char:EOLhyphen"/>member, that the pitch of an Eagles flight, doth farre ſur<g ref="char:EOLhyphen"/>mount
+<pb facs="tcp:177538:3"/> the fluttering of a Flie, and that common baſe Mindes are not Capable of ſuch Noble Thoughtes, as might raiſe themſelues with the true ſeeking of thieſe your moſt rare &amp; worthie parts, which haue drawn me to your Preſence: whereof I haue hearde men ſpeake with wonder, &amp; now they giue me cauſe to think my ſelfe moſt happie. And therefore I humblie beſeech your Maieſtie, when you haue read the Hiſtorie of the inward thoughtes of my minde, you will vouchſafe to iudge hereof, not as of conceiptes hanging of the thréedes of flattering tearmes: but that you will be pleaſed to vnderſtande through the concience of your owne vertues, that wordes of neuer ſoe great magnificence, are but the leaſt parte of ſo high and excellent deſerte, and that the leſſe I am able to diſplay their dignitie with my ſpeaches: the more will I with my Bloude make proofe of my zeale towardes them, if at any time I may be made worthie to be Commaunded by your Maieſtie.</p>
+            <p>I am a Souldier whoſe profeſſion is cleane contrarie to wordes, which ſhall ſooner faile me, then my courage to greater effect. Yf the preſent be acceptable to your Ma<g ref="char:EOLhyphen"/>ieſtie, I ſhall eſtéeme it as a moſt ſinguler good happe vnto me: but much more, if it ſhall be imployed. For it would be but a very idle ende and concluſion of ſo long a trauaile, full of ſo many perrills, if it were knit vp with wordes on<g ref="char:EOLhyphen"/>ly, and a very poore and ſlender harueſt of ſo feruent Affe<g ref="char:EOLhyphen"/>ction, if it ſhould bring foorth onely Buddes or Bloſſomes, and no ſounde Fruite: and finally too méeke a Subiect for your Maieſties moſt excelent vertues, if my deuotion and obſeruances were not ſealed with my Bloude, the which I do humble and fréely offer at your Maieſties féete, to be ſhed and ſpent, at the leaſt ſigne and token of your Maie<g ref="char:EOLhyphen"/>ſties pleaſure.</p>
+            <pb facs="tcp:177538:4"/>
+            <p>SInce which time, Sir Anthony Shirley hath receiued all the familliar and kinde Entertainment at the great Sophies handes, that coulde poſſiblie be deuiſed.</p>
+            <p>It hapned within a ſmall time after that Sir Anthony Shirley came thither, the Turke ſent a very Principall Baſha to the great Sophie vppon an Imbaſſage, after whoſe comming, the great Sophie dined one day publike<g ref="char:EOLhyphen"/>lie: where he feaſted both the Baſha, and Sir Anthony and his Company alſo, placing them on his right hande, and the Baſha, and his traine on the left.</p>
+            <p>The great Sophie hath dealt very gratiouſly and libe<g ref="char:EOLhyphen"/>rally with Sir Anthony Shierlie during all the time of his being there: for the King intending a iourney from <hi>B<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſan</hi> vnto <hi>Haſtfam,</hi> required Sir Anthony to goe with him, at which time the great Sophie ſent him this guift folowing, <hi>(Viz.)</hi> Fortie Horſe well furniſhed, whereof foure Sad<g ref="char:EOLhyphen"/>dles were Plate of Golde, ſet with pretious Stones, and two of Siluer. Fiftéene Cammels, and as many Mults for his Carriages. Three moſt faire Tents. Eightéene Carpets curiouſly wrought with Golde. 16000. Piſto<g ref="char:EOLhyphen"/>lets withall, Co<g ref="char:cmbAbbrStroke">̄</g>maunding his Meſſenger to tell Sir An<g ref="char:EOLhyphen"/>thony, that the great Sophie woulde not haue him to ac<g ref="char:EOLhyphen"/>cept them as a Preſent, but as thinges neceſſarie for his Iourney, (being but for eight dayes,) and euer ſince he hath beſtowed many great guiftes vpon him.</p>
+            <p>Sir Anthony Shirlie is now at <hi>Prage,</hi> being ſent by the Sophie, vpon an imbaſſage to the Emperour, and diuers other Chriſtian Princes.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:177538:4"/>
+            <head>¶ The Coppie of Sir Anthony Shirlies let<g ref="char:EOLhyphen"/>ters of Credence from the great Sophie, to the Chriſtian Princes.</head>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he king</note>
+               <seg rend="decorInit">T</seg>Here is come vnto me in this good time, a principall Gentleman (Sir Anthony Shier<g ref="char:EOLhyphen"/>lie) of his owne frée will out of Europe into thieſe parts: and al you Princes y<hi rend="sup">t</hi> beléeue in Ieſus Chriſt, <hi>Know you,</hi> that he hath made Friendſhip betwéene you &amp; me, which deſire we had alſo heretofore graunted, but there was none that came to make the way, and to remoue the vaile that was betwene vs and you, but onely this Gentleman, who as he came of his owne frée will, ſo alſo vppon his Deſire, I haue ſent with him a chiefe man of mine. The Entertainement which that Principall Gentleman hath had with me, is, that daylie whil'ſt he hath bin in thieſe partes we haue ea<g ref="char:EOLhyphen"/>ten togither of one dyſh, and drunke of one Cup, like two Bréethren.</p>
+            <p>Therefore, when this Gentleman comes vnto you Chriſtian Princes, you ſhall Credite him in whatſoeuer you ſhall demaunde, or he ſhal ſay, as mine owne Perſon, and when this Gentleman ſhall haue paſſed the Sea, and is entred into the Cuntrey of the great king of Muſcouie, (with whom we are in friendſhippe as Bréethren) all his Gouernours both great and ſmall, ſhall accompany him, and vſe him with all fauour, vnto Moſes: and becauſe there is great Loue betwene you, the king of Moſco and mee, that wee are like two Bréethren, I haue ſent this Gentleman through your Cuntrey, and deſire you to fa<g ref="char:EOLhyphen"/>uour his paſſage without any hindrance.</p>
+         </div>
+         <div type="privileges_granted">
+            <pb facs="tcp:177538:5"/>
+            <head>¶ The Coppie of the free Priuiledges ob<g ref="char:EOLhyphen"/>ned by Sir Anthony Shierlie, of the great Sophie, for all Chriſtians to trade and trafique into Perſia.</head>
+            <p>
+               <note place="margin">I the king</note>OVR abſolute Commaundement, will, and plea<g ref="char:EOLhyphen"/>ſure is, that our Cuntries and Dominions ſhall be from this day open to all Chriſtian People, and to their Religion: and in ſuch ſort, that none of ours, of any Condition ſhal preſume to giue them any euil word. And becauſe of the Amitie now ioyned, with the Princes that profeſſe Chriſt: I do giue this Pattent for all Chri<g ref="char:EOLhyphen"/>ſtian Marchants, to repaire and trafique, in, and through our Dominions, without diſturbances or moleſtations of any Duke, Prince, Gouernour or Captaine, or any of whatſoeuer Office, or qualitie of ours: but that all Mer<g ref="char:EOLhyphen"/>chandiſe that they ſhall bring, ſhall be ſo priuiledged, that none of any Dignitie or Aucthoritie, ſhall haue Power to looke vnto it: neyther to make inquiſition after, or ſtay for any vſe or perſon, the value of one Aſper. Neyther ſhall our religeous men, of whatſoeuer ſort they be, dare diſt<g ref="char:EOLhyphen"/>urbe them, or ſpeake in matters of their Faith. Neyther ſhall any of our Iuſtices haue power ouer their perſons or goodes, for any cauſe or act whatſoeuer.</p>
+            <p>If by chaunce, a Marchant ſhall die, none ſhall touch a<g ref="char:EOLhyphen"/>ny thing that belongeth vnto him: but if the Marchante haue a Companion, he ſhall haue power to take poſſeſſion of thoſe goodes. But if (by any occaſion) he be alone, one<g ref="char:EOLhyphen"/>ly with his ſeruants: The Gouernour, or whomſoeuer ſhall be required by him in his ſicknes, ſhall be anſweara<g ref="char:EOLhyphen"/>ble for all ſuch goodes vnto any of his Nation, which ſhall come to require them. But if he die ſuddainly, and haue neyther Companion nor ſeruant, nor time, to reco<g ref="char:cmbAbbrStroke">̄</g>mende to any, what he woulde haue done: Then the Gouernor of that place, ſhall ſende the goodes to the next Marchant
+<pb facs="tcp:177538:5"/> of his Nation, which ſhall be abiding in any partes of our Dominions.</p>
+            <p>And thoſe within our kingdomes and Provinces, ha<g ref="char:EOLhyphen"/>uing power ouer our Tolles and Cuſtomes, ſhall receiue nothing, nor dare to ſpeake for any receipt from any chri<g ref="char:EOLhyphen"/>ſtian Marchant.</p>
+            <p>And if any ſuch Chriſtian ſhal giue Credite to any of our ſubiectes (of any Condition whatſoeuer) he ſhall by this Pattent of ours, haue aucthoritie to require any Caddie or Gouernour to do him Iuſtice, and there-vpon at the inſt<g ref="char:EOLhyphen"/>ant of his demaunde, ſhall cauſe him to be ſatiſfied.</p>
+            <p>Neyther ſhall any Gouernour, or Iuſtice of what qua<g ref="char:EOLhyphen"/>litie ſoeuer he be, dare take any Rewarde of him, which ſhall be to his expence: for our Will and pleaſure is, that they ſhall be vſed in all our Dominions to their owne full content, and that our Kingdomes and Cuntries ſhall be frée vnto them.</p>
+            <p>That none ſhall preſume to aſke them for what ocaſion they are héere.</p>
+            <p>And although it hath bin a continuall and vnchaunge<g ref="char:EOLhyphen"/>able vſe in our Dominions euery yéere, to renue all Pat<g ref="char:EOLhyphen"/>tents: This Pattent notwithſtanding ſhall be of full E<g ref="char:EOLhyphen"/>ffect and force for euer without any Renuing, for me and my ſucceſſors, not to be chaunged.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
